@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shawebit" target="blank"><img src="https://img.shields.io/twitter/follow/shawebit?logo=twitter&style=for-the-badge" alt="shawebit" /></a> </p>
 
-<img align= "right" width="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align= "right" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 - 🌱 I’m currently learning **Java, Android Development, C programming**
 
